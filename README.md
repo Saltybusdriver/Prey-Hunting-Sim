@@ -3,8 +3,10 @@ Prey hunting sim for OOP class
 
 
 Entire codeblocks project
+
 -------------------------input.txt example----------------------
-                        7 2 -- number of  hunters and preys
+												
+			    7 2 -- number of  hunters and preys
                         aaaaaa l 60   -- name of the colony, type of the animal( l for lemming, n for rabbit, u for ground squirell)
                         aaaaaa l 60   -- (For the predators f for wolf, h for owl and s for fox)
                         bbbbbb n 70   -- number for how many animals are in that specific colony
