@@ -1,0 +1,10 @@
+7 2
+aaaaaa l 60
+aaaaaa l 60
+bbbbbb n 70
+cccccc l 60
+dddddd l 60
+eeeeee n 80
+ffffff l 100
+gggggg f 1
+hhhhhh f 1
